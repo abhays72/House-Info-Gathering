@@ -1,0 +1,16 @@
+[
+    "School District",
+    "Availabillity",
+    "Rent",
+    "Sqr. Ft",
+    "Address",
+    "Bdr/Bath",
+    "Lot Size",
+    "Distance From School / Biking Time",
+    "Date Available",
+    "Listed By",
+    "Name",
+    "Phone Number",
+    "Appt Date",
+    "Appt Time",
+]
